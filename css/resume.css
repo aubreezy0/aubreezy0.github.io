@@ -17,13 +17,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Titillium Web', sans-serif;
   font-weight: 700;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   color: #343a40;
 }
 
 h1 {
+  color: #b3304d;
   font-size: 6rem;
   line-height: 5.5rem;
 }
@@ -33,18 +34,19 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
+  padding-top: 10px;
+  text-transform: none;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
-  font-size: 1.35rem;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 1.55rem;
 }
 
 .list-social-icons a {
-  color: #495057;
+  color: #8b8691;
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #603b5a;
 }
 
 .list-social-icons a .fa-lg {
@@ -105,6 +107,7 @@ h2 {
 }
 
 section.resume-section {
+  background-color: #F9F5FA;
   border-bottom: 1px solid #dee2e6;
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
@@ -131,17 +134,17 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #22102d !important;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #22102d !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #b3304d;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: #22102d;
 }
