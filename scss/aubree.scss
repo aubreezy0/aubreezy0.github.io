@@ -46,6 +46,7 @@ h2 {
     &:hover {
       color: $primary;
     }
+
     .fa-lg {
       font-size: 1.75rem;
     }
@@ -54,6 +55,7 @@ h2 {
 
 .list-icons {
   font-size: 3rem;
+
   .list-inline-item i {
     &:hover {
       color: $primary;
